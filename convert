@@ -1,0 +1,1 @@
+iconv -c -f GB2312 -t UTF-8 file1.txt >> file2.txt
